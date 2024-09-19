@@ -1,0 +1,11 @@
+public class Main{
+private int id;
+private String name;
+public void getName(){
+return "null";
+}
+public static void main (String []args){
+Main main= new main();
+String uname=main.getName();
+System.out.println(umname);
+}
